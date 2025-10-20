@@ -1,3 +1,4 @@
+
 body {
   margin: 0;
   padding: 0;
@@ -6,8 +7,9 @@ body {
   align-items: center;
   height: 100vh;
   background-color: gainsboro;
-  background-image: url("./assets/background-3.webp");
+  background-image: url("./assets/download.webp");
   background-size: cover;
+  font-family: 'Poppins', sans-serif;
 }
 
 main {
@@ -20,10 +22,13 @@ main {
   width: 100px;
   border-radius: 50%;
 }
-
+h1{
+   font-family: "Playwrite AU TAS", sans-serif;
+}
 h1,
 p {
   color: white;
+  
 }
 
 .sosmed {
